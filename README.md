@@ -22,23 +22,34 @@ A Flask-based web application demonstrating **Kyber512** (NIST-standardized Post
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/pqc-web-app.git](https://github.com/abdullah-ab00/InfoSecurity-Proj.git)
+   git clone (https://github.com/abdullah-ab00/InfoSecurity-Proj.git)
    cd pqc-web-app
 
 2. Folder Structure
 
     ├── app.py               # Flask backend routes
+   
     ├── crypto.py            # Kyber + AES encryption logic
+   
     ├── requirements.txt     # Dependencies
+   
     ├── test.py              # Unit tests
-    ├── Readme.txt           # Readme 
+   
+    ├── Readme.txt           # Readme
+   
     ├── /templates
+   
     │   ├── index.html       # Homepage
+   
     │   └── main.html        # Crypto operations UI
+   
     └── /static
         ├── /css             # Bootstrap styles
+   
         ├── /fonts           # Fonts
+   
         ├── /images          # Imgs
+   
         └── /js              # Scripts
 
 ---
