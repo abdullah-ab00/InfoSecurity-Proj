@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+kyber-py
+pycryptodome
+Flask-Talisman
+python-dotenv
